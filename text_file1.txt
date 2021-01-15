@@ -1,1 +1,2 @@
-Hi, I'm Ayman Tareq. I'm learning git and github from stack learner nanocamp tutorial. 
+Hi, I'm Ayman Tareq. I'm learning git and github from stack learner nanocamp tutorial.
+Git & Github is a awesome thing. Everybody should learn Git and Github. 
