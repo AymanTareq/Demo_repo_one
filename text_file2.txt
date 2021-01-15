@@ -1,2 +1,2 @@
 Hello, This is my second text file.
-I edit this file only for learning purpose.Now I've to commit again as I chage the file.
+I edit this file only for learning purpose.Now I've to commit again as I change the file.
