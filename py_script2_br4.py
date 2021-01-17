@@ -11,4 +11,4 @@ def remove_duplicate(lst):
 
 lst1 = ['a','b','c','a','c','d','c','e','c']
 
-print("After remove duplicates from lst1",remove_duplicate(lst1))
+print("After removing duplicates from the list: ",remove_duplicate(lst1))
