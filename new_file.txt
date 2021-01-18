@@ -1,0 +1,4 @@
+There is a dummy text for learning git stash command in git.
+Now I would like to checkout in main branch without cleaning working tree in branch1.
+
+I come from main branch. and now I added this line.Now I'm going to commit. and merge with main.
